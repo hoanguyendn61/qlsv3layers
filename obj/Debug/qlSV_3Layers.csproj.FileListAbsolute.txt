@@ -1,0 +1,14 @@
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\bin\Debug\qlSV_3Layers.exe.config
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\bin\Debug\qlSV_3Layers.exe
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\bin\Debug\qlSV_3Layers.pdb
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.csprojAssemblyReference.cache
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.GUI.frmTTSV.resources
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.Properties.Resources.resources
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.csproj.GenerateResource.cache
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.csproj.CoreCompileInputs.cache
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.exe
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.pdb
+D:\Download\Study\hoc\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.frmDSSV.resources
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\bin\Debug\LoginControl.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\bin\Debug\LoginControl.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\qlSV_3Layers\qlSV_3Layers\obj\Debug\qlSV_3Layers.csproj.CopyComplete
